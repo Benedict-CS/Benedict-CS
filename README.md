@@ -10,8 +10,8 @@
 I am **Benedict Tiong** from Malaysia, a Master's student in Computer Science at National Yang-Ming Chiao Tung University, deeply engaged in studying Microservices, CI/CD, DevOps, and Cloud Native Technologies.
 
 ## Contact
-- **Email**: <a href="mailto:benedicttiong.cs@gmail.com" target="_blank">benedicttiong.cs@gmail.com</a>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/benedict-tiong" target="_blank">https://www.linkedin.com/in/benedict-tiong</a>
-- **Website**:  <a href="https://benedict-cs.github.io/Me/index-en.html" target="_blank">https://benedict-cs.github.io/Me/index-en.html</a>
+- **Email**: [benedicttiong.cs@gmail.com](mailto:benedicttiong.cs@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/benedict-tiong](https://www.linkedin.com/in/benedict-tiong)
+- **Website**: [https://benedict-cs.github.io/Me/index-en.html](https://benedict-cs.github.io/Me/index-en.html)
 
 
