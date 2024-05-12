@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Benedict Tiong
 
-📚 MSc. of Computer Science in NYCU, Taiwan
+📚 MSc in Computer Science, National Yang-Ming Chiao Tung University (NYCU), Taiwan
 
-📚 BSc. of Interaction Design in NTUT, Taiwan
+📚 BSc in Interaction Design, National Taipei University of Technology (NTUT), Taiwan
 
-📚 HS. Normal High School in SMK Tatau, Malaysia
+📚 High School, Sekolah Menengah Kebangsaan Tatau (SMK Tatau), Malaysia
 
 ## About
-I am **Benedict Tiong** from Malaysia, Master's student in Computer Science at National Yang-Ming Chiao Tung University, deeply engaged in the study of Microservices, CI/CD, DevOps, and Cloud Native Technologies.
+I am **Benedict Tiong** from Malaysia, a Master's student in Computer Science at National Yang-Ming Chiao Tung University, deeply engaged in studying Microservices, CI/CD, DevOps, and Cloud Native Technologies.
 
 ## Contact
-- **Email**: [benedicttiong.cs@gmail.com](mailto:benedicttiong.cs@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/benedict-tiong](https://www.linkedin.com/in/benedict-tiong)
-- **Website**: [https://benedict-cs.github.io/Me/index-en.html](https://benedict-cs.github.io/Me/index-en.html)
+- **Email**: <a href="mailto:benedicttiong.cs@gmail.com" target="_blank">benedicttiong.cs@gmail.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/benedict-tiong" target="_blank">https://www.linkedin.com/in/benedict-tiong</a>
+- **Website**:  <a href="https://benedict-cs.github.io/Me/index-en.html" target="_blank">https://benedict-cs.github.io/Me/index-en.html</a>
 
 
