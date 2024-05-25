@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Benedict Tiong
 
-📚 MSc in Computer Science, National Yang-Ming Chiao Tung University (NYCU), Taiwan
+📚 MSc in Computer Science, National Yang Ming Chiao Tung University (NYCU), Taiwan
 
 📚 BSc in Interaction Design, National Taipei University of Technology (NTUT), Taiwan
 
