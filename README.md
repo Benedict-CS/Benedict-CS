@@ -18,6 +18,5 @@ Outside of class, I am an athlete. I have participated in sprints, relay races, 
 ## Contact
 - **Email**: [benedicttiong.cs@gmail.com](mailto:benedicttiong.cs@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/benedict-tiong](https://www.linkedin.com/in/benedict-tiong)
-- **Website**: [https://benedict-cs.github.io/Me/index-en.html](https://benedict-cs.github.io/Me/index-en.html)
-
+- **Website**: [https://benedict.nycu.me](https://benedict.nycu.me)
 
