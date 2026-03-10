@@ -20,9 +20,9 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 * **Development:** Currently building a no-code website creation platform, developing automated LINE bots, and consistently sharpening my problem-solving skills with LeetCode.
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Benedict-CS&show_icons=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benedict-CS&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benedict-CS&layout=compact)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benedict-CS&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
 
 ## 🏆 Hackathons & Achievements
 I love turning ideas into prototypes rapidly under pressure. Some of my proudest moments include:
