@@ -6,7 +6,7 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 * **Education:** M.S. in Computer Science at National Yang Ming Chiao Tung University (NYCU).
 * **Research Focus:** Network Function Virtualization (NFV), CI/CD, DevOps, and Cloud-Native Technologies.
 
-## 🛠️ Tech Stack & What I'm Doing
+## 🛠️ Tech Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -17,7 +17,6 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 
 * **Cloud & DevOps:** Kubernetes (K8s), Docker, CI/CD (GitHub Actions), ArgoCD, Karmada, Prometheus, and Grafana.
 * **Infrastructure & Self-Hosting:** Actively managing my HomeLab (TrueNAS Scale, Proxmox) and building private cloud solutions like Nextcloud.
-* **Development:** Currently building a no-code website creation platform, developing automated LINE bots, and consistently sharpening my problem-solving skills with LeetCode.
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benedict-CS&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56)
