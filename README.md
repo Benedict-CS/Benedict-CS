@@ -3,9 +3,8 @@
 I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiwan. I specialize in Cloud-Native technologies, CI/CD pipelines, and infrastructure management. I enjoy building robust microservices, managing homelab infrastructure, and rapidly prototyping ideas!
 
 ## 🎓 Background & Focus
-* **Education:** M.S. in Computer Science at National Yang Ming Chiao Tung University (NYCU). B.S. in Interaction Design at NTUT.
+* **Education:** M.S. in Computer Science at National Yang Ming Chiao Tung University (NYCU).
 * **Research Focus:** Network Function Virtualization (NFV), CI/CD, DevOps, and Cloud-Native Technologies.
-* **Experience:** Engineered a Dockerized Authentication Service and implemented RPA workflows during my Software Engineer Internship at Makalot Industrial Co., Ltd.
 
 ## 🛠️ Tech Stack & What I'm Doing
 
@@ -21,10 +20,9 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 * **Development:** Currently building a no-code website creation platform, developing automated LINE bots, and consistently sharpening my problem-solving skills with LeetCode.
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Benedict-CS&show_icons=true)
 
-![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benedict-CS&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benedict-CS&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benedict-CS&layout=compact)
 
 ## 🏆 Hackathons & Achievements
 I love turning ideas into prototypes rapidly under pressure. Some of my proudest moments include:
