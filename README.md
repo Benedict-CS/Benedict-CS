@@ -1,22 +1,26 @@
-# 👋 Hi, I'm Benedict Tiong
+# 👋 Hi, I'm Benedict Tiong (Ben)
 
-📚 MSc in Computer Science, National Yang Ming Chiao Tung University (NYCU), Taiwan
+I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiwan. I enjoy building microservices, managing homelab infrastructure, and rapidly prototyping ideas at hackathons!
 
-📚 BSc in Interaction Design, National Taipei University of Technology (NTUT), Taiwan
+## 🎓 Background & Focus
+* [cite_start]**Education:** M.S. in Computer Science at National Yang Ming Chiao Tung University (NYCU)[cite: 4, 5]. [cite_start]B.S. in Interaction Design at NTUT[cite: 9, 10].
+* [cite_start]**Research:** Focused on Network Function Virtualization (NFV), CI/CD, DevOps, and Cloud-Native Technologies[cite: 7].
+* [cite_start]**Experience:** Software Engineer Intern at Makalot Industrial Co., Ltd.[cite: 31]. [cite_start]I engineered a Dockerized Authentication Service and implemented RPA workflows.
 
-📚 High School, Sekolah Menengah Kebangsaan Tatau (SMK Tatau), Malaysia
+## 🛠️ Tech Stack & What I'm Doing
+* [cite_start]**Cloud & DevOps:** Kubernetes, Docker, CI/CD (GitHub Actions), ArgoCD, and Prometheus[cite: 45].
+* **Infrastructure & Self-Hosting:** Actively managing my own HomeLab (TrueNAS Scale, Proxmox) and building private cloud solutions like Nextcloud.
+* **Development:** Currently building a no-code website creation platform, developing automated LINE bots, and consistently sharpening my problem-solving skills with LeetCode.
 
-## About
-Hi, my name is Benedict Tiong, or you can call me Ben. I am Malaysian, so I was born and raised in Malaysia. However, for about the last five years, I have decided to pursue my education in Taiwan. So, I graduated from the National Taipei Tech University (NTUT) with a Bachelor of Science in Interaction Design in 2023. Then, I kept pursuing my studies. So now, I am a graduate student in the Department of Computer Science and a researcher at the Wireless Internet Laboratory (Winlab) at National Yang Ming Chiao Tung University (NYCU). My research focuses on CI/CD, DevOps, and cloud-native technology for the 5G and 6G networks. 
+## 🏆 Hackathons & Achievements
+I love turning ideas into prototypes rapidly under pressure. Some of my proudest moments include:
+* [cite_start]**Champion (Jury Prize)** at the National Makerthon (2022)[cite: 43].
+* [cite_start]**Shortlisted** in Intel DevCup x OpenVINO & SG Mobileheroes (2021)[cite: 43].
 
-When I was a junior, I interned at the Matkalot Industrial Company in the IT department in Taipei, which lasted for about one year. My primary responsibility as a backend software engineer is to build micro-service applications and use the containerized technique to make the applications more portable and flexible. Besides that, I also have to implement some IT automation routines using the Robotic Process Automation (RPA) tool. This internship gave me hands-on experience in IT operations and software development. It reinforced my technical skills a lot.
+## 🏃‍♂️ Beyond the Screen
+When I'm not configuring servers or deploying clusters, you can find me on the track or trails. I'm an avid athlete who loves sprints, half marathons, and trail running to stay energized and focused.
 
-Besides the internship, participating in competitions is the most enjoyable thing I do. I have participated in over 10 more competitions during my undergraduate studies and won about 8 awards, including being shortlisted in the 5G Mobilehero competitions and Intel DevCup OpenVINO AI competitions. One of the achievements that made me most proud was leading my team to become the champions of the Mekerthon National Tournament in 2022. The most valuable experience I gained through these competitions was teamwork, the ability to develop prototypes in minimal time, and presentation skills to make it easier for the audience to understand our concept and prototype. 
-
-Outside of class, I am an athlete. I have participated in sprints, relay races, trail running, half marathons, etc. I enjoy various racing events because they allow me to relax, release stress, and feel more energetic in my work.
-
-## Contact
-- **Email**: [benedicttiong.cs@gmail.com](mailto:benedicttiong.cs@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/benedict-tiong](https://www.linkedin.com/in/benedict-tiong)
-- **Website**: [https://benedict.winlab.tw](https://benedict.winlab.tw)
-
+## 📫 Let's Connect!
+* [cite_start]**Email**: benedicttiong.cs@gmail.com / benedict.cs12@nycu.edu.tw [cite: 2]
+* **LinkedIn**: [Benedict Tiong](https://www.linkedin.com/in/benedict-tiong)
+* **Website**: [benedict.winlab.tw](https://benedict.winlab.tw)
