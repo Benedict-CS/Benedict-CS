@@ -22,16 +22,6 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benedict-CS&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56)
 
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benedict-CS&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
-
-## 🏆 Hackathons & Achievements
-I love turning ideas into prototypes rapidly under pressure. Some of my proudest moments include:
-* **Champion (Jury Prize)** at the National Makerthon (2022).
-* **Shortlisted** in Intel DevCup x OpenVINO & SG Mobileheroes (2021).
-
-## 🏃‍♂️ Beyond the Screen
-When I'm not configuring servers or deploying clusters, you can find me on the track or trails. I'm an avid athlete who loves sprints, half marathons, and trail running to stay energized and focused.
-
 ## 📫 Let's Connect!
 * **Email**: benedicttiong.cs@gmail.com / benedict.cs12@nycu.edu.tw
 * **LinkedIn**: [Benedict Tiong](https://www.linkedin.com/in/benedict-tiong)
