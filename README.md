@@ -8,6 +8,13 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 
 ## 🛠️ Tech Stack
 
+**Languages**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Cloud Native & DevOps**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -15,8 +22,12 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-* **Cloud & DevOps:** Kubernetes (K8s), Docker, CI/CD (GitHub Actions), ArgoCD, Karmada, Prometheus, and Grafana.
-* **Infrastructure & Self-Hosting:** Actively managing my HomeLab (TrueNAS Scale, Proxmox) and building private cloud solutions like Nextcloud.
+* **Programming Languages:** Bash/Shell, Python, C/C++, TypeScript.
+* **Orchestration & Containerization:** Kubernetes (K8s), Karmada (Multi-Cluster), Docker, LXC.
+* **GitOps & CI/CD:** GitHub Actions, ArgoCD, FluxCD, Helm.
+* **Networking & Observability:** Cilium (eBPF), Prometheus, Thanos, Grafana.
+* **Infrastructure & OS:** Ubuntu Server, OpenWrt/prplOS (Embedded Linux), Proxmox VE, TrueNAS.
+* **Databases & Storage:** PostgreSQL, SQLite, S3 Object Storage (MinIO, RustFS).
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benedict-CS&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56)
