@@ -28,7 +28,25 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 * **Databases & Storage:** PostgreSQL, SQLite, S3 Object Storage (MinIO, RustFS).
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benedict-CS&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=434D56)
+<!--START_SECTION:readme-stats-->
+name: Update README Stats
+on:
+  schedule:
+    - cron: '0 0 * * *'    # daily at midnight UTC
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: thanhhaudev/github-stats@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_METRICS: "CODING_STREAK"
+<!--END_SECTION:readme-stats-->
 
 ## 📫 Let's Connect!
 * **Email**: benedicttiong.cs@gmail.com / benedict.cs12@nycu.edu.tw
