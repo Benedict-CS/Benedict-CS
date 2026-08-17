@@ -29,6 +29,14 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 
 ## 📊 GitHub Stats
 <!--START_SECTION:readme-stats-->
+**📈 Coding Streak**
+
+```text
+🔥 Current Streak:        1 day
+🏆 Longest Streak:        8 days
+```
+
+
 <!--END_SECTION:readme-stats-->
 
 ## 📫 Let's Connect!
