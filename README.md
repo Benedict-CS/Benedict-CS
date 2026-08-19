@@ -32,7 +32,7 @@ I'm a passionate Software/DevOps Engineer from Malaysia, currently based in Taiw
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        1 day
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        8 days
 ```
 
